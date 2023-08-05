@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ishan patil
-- 👀 I’m intrested in cloud,cyber
-- 🌱 I’m currently learning cyber and cloud3
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m intrested in cloud,cyber domain
+- 🌱 I’m currently learning cyber,AWS
+- 💞️ I’m looking to collaborate on various cloud projects
 - 📫 How to reach me ...
 
 <!---
