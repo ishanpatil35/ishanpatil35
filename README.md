@@ -1,11 +1,12 @@
 <h1 align="center">Hi 👋, I'm Ishan Patil</h1>
 <h3 align="center">A passionate Cloud Learner</h3>
 
- 
+ <img align="right" alt="coding" width="400" src="![image](https://github.com/ishanpatil35/ishanpatil35/assets/115521898/5230dcee-99e9-499f-920c-699b6a5aa480)
+">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ishanpatil35&label=Profile%20views&color=0e75b6&style=flat" alt="ishanpatil35" /> </p>
 
-<p align="left"> <a href="https://twitter.com/ishan3535" target="blank"><img src="https://img.shields.io/twitter/follow/ishan3535?logo=twitter&style=for-the-badge" alt="ishan3535" /></a> </p>
+
 
 - 🌱 I’m currently learning **AWS,Azure,Devops**
 
