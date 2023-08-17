@@ -1,4 +1,4 @@
-![logo](https://github.com/ishanpatil35/ishanpatil35/blob/main/Untitled%20design.png?raw=true)
+![logo](          https://github.com/ishanpatil35/ishanpatil35/blob/main/Untitled%20design.png?raw=true)
 
 <h1 align="center">Hi 👋, I'm Ishan Patil</h1>
 <h3 align="center">A passionate Cloud Learner</h3>
