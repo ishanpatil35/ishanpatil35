@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ishan Patil</h1>
 <h3 align="center">A passionate Cloud Learner</h3>
 
-<p align="left"><img src=> alt="coding"width="400" src="![image](https://github.com/ishanpatil35/ishanpatil35/assets/115521898/9762540d-194b-4e1c-afd8-b54c7f4eb1b8)
-"/></p>
+ 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ishanpatil35&label=Profile%20views&color=0e75b6&style=flat" alt="ishanpatil35" /> </p>
 
