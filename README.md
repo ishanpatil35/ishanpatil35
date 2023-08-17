@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ishan Patil</h1>
 <h3 align="center">A passionate Cloud Learner</h3>
 
- <img align="right" alt="coding" width="400" src="https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC">
+ <img align="right" alt="coding" width="100" src="https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ishanpatil35&label=Profile%20views&color=0e75b6&style=flat" alt="ishanpatil35" /> </p>
 
