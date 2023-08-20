@@ -15,7 +15,8 @@
 
 - 📄 Know about my experiences [https://amber-korry-6.tiiny.site](https://amber-korry-6.tiiny.site)
 
-- ⚡ Fun fact **Cloud nerd👽**
+- ⚡ Fun fact **Cloud nerd👽 Practicing Devops ♾️**
+- 🕉️
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
