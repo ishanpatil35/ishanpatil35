@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **patilishan34@gmail.com**
 
-- 📄 Know about my experiences [https://amber-korry-6.tiiny.site]([https://amber-korry-6.tiiny.site](https://tinyurl.com/mpzzyh4n))
+- 📄 Know about my experiences (https://tinyurl.com/mpzzyh4n)
 
 - ⚡ Fun fact **Cloud nerd👽 Practicing Devops ♾️**
 - 🕉️
