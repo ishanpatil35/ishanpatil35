@@ -18,6 +18,8 @@
 - ⚡ Fun fact **Cloud nerd👽 Practicing Devops ♾️**
 - 🕉️
 
+[![An image of @ishanpatil35's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ishanpatil35)](https://holopin.io/@ishanpatil35)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/ishan3535" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ishan3535" height="30" width="40" /></a>
