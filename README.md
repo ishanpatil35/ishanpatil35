@@ -18,6 +18,8 @@
 - ⚡ Fun fact **Cloud nerd👽 Practicing Devops ♾️**
 - 🕉️
 
+I  write Blogs on cloud and DevOps https://ishan35.hashnode.dev/
+
 [![An image of @ishanpatil35's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ishanpatil35)](https://holopin.io/@ishanpatil35)
 
 <h3 align="left">Connect with me:</h3>
