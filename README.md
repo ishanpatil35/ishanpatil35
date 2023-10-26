@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **patilishan34@gmail.com**
 
-- 📄 Know about my experiences (https://tinyurl.com/mpzzyh4n)
+- 📄 Know about my experiences (https://drive.google.com/file/d/1DTwHD_W1DERkmgK4xUkX22pApFhkh-DG/view?usp=drivesdk)
 
 - ⚡ Fun fact **Cloud nerd👽 Practicing Devops ♾️**
 - 🕉️
